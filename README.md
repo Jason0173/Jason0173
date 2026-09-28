@@ -26,4 +26,4 @@ Python · PyTorch · CUDA · C/C++ · Hugging Face (Transformers, TRL, PEFT) · 
 
 ### Contact
 
-[LinkedIn](https://www.linkedin.com/in/ke-wang-7bab44355) · wang.ke9@northeastern.edu
+[LinkedIn](https://www.linkedin.com/in/ke-wang-neu) · wang.ke9@northeastern.edu
